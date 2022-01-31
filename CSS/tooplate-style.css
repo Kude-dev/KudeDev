@@ -363,7 +363,7 @@ b, strong {
   margin-left: 6em;
 }
 .timeline-info small {
-  color: #474559;
+  color: #757386;
   font-size: 16px;
   font-weight: bold;
   display: inline-block;
@@ -510,6 +510,12 @@ div.timeline-yr i.uil:hover {
     margin-top: 4em;
   }
 
+  div.col-lg-7 img.img-svg-about {
+    text-align: right;
+    right: 50px;
+    width: 600px;
+  }
+
   .mobile-mt-2,
   .contact-form {
     margin-top: 2em;
@@ -589,10 +595,11 @@ div.timeline-yr i.uil:hover {
     flex-direction: column;
   }
 
+
   .red-social-links li {
     display: inline-block;
     vertical-align: top;
   }
 
-
+  
 }
